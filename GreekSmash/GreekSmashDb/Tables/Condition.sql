@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[Condition]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY,
+	[Description] NVARCHAR(50) NULL
+
+)
